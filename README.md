@@ -1,2 +1,2 @@
 # Javascript
-I have created this repository to learn concepts javascript and build projects
+I have created this repository to learn concepts of javascript and build projects
